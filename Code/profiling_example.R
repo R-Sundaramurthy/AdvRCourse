@@ -10,3 +10,5 @@ test_data <- pxweb::get_pxweb_data(
   clean = TRUE)
 Rprof()
 summaryRprof(tmp, lines = "show", memory = "both")
+
+#ml is fun
